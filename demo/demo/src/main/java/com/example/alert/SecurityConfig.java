@@ -1,4 +1,4 @@
-package com.example.alert.config;
+package com.example.alert;
 
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;

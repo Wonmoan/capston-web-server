@@ -1,8 +1,6 @@
-package com.example.alert.controller;
+package com.example.alert;
 
-import com.example.alert.repository.AlertRepository;
-import com.example.alert.service.AlertService;
-import com.example.alert.domain.Alert;
+
 import java.time.LocalDateTime;
 import java.util.Map;
 import java.util.List;  // java.util.List를 임포트

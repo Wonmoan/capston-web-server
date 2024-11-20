@@ -1,5 +1,6 @@
-package com.example.alert.repository;
-import com.example.alert.domain.Alert;
+package com.example.alert;
+
+
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;
 

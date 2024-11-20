@@ -1,4 +1,4 @@
-package com.example.alert.domain;
+package com.example.alert;
 
 import jakarta.persistence.Entity;
 import jakarta.persistence.GeneratedValue;

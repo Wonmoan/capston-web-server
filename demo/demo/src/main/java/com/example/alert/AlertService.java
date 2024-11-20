@@ -1,4 +1,4 @@
-package com.example.alert.service;
+package com.example.alert;
 
 import java.util.Map;
 import org.springframework.stereotype.Service;
